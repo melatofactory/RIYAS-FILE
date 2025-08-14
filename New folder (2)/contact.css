@@ -1,0 +1,20 @@
+div{
+    padding: 1%;
+    padding-top: ;
+}
+.back {
+    display: flex;
+   }
+   .back,a{
+    display: inline;
+    position:relative;
+    font-size:;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 20px;
+    font-size: medium;
+    margin-right: 20px;
+    font-family: sans-serif;
+   
+   }

@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+padding: 0%;
+    
+}
+body{
+    background: white;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.we{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: brown;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size:small;
+font-style: italic;
+font-variant:normal;
+
+}
+.img1{
+    height: 8cm;
+    width: 8cm;
+    padding-bottom: 20px;
+   
+}
+.our a{
+    display: inline;
+    position:relative;
+    font-size:;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 25px;
+    font-size: medium;
+    margin-right: 50px;
+    font-family: sans-serif;
+    
+}
+.our a:hover{
+    color: rgb(206, 36, 36);
+    font-weight: 500;
+    transition: .5s;
+}
+.img2{
+   width: 9cm;
+background: white;
+   
+}
+.A1{
+    font-family:serif;
+font-size: small;
+color: rgb(73, 28, 28);
+font-style: inherit;
+}
+.l{
+    padding-bottom: 0;
+}
+.tru{
+    padding-top:0;
+    margin-top: ;
+}
+.seal{
+    height: 4.5cm;
+    width: 20cm;
+}
